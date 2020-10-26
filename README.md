@@ -1,5 +1,15 @@
 # lucas_araujo_dr4_tp1
 
+## Problemas?
+```
+npm i
+```
+
+## Project using firebase
+```
+npm install vuefire firebase
+```
+
 ## Project setup
 ```
 npm install
